@@ -51,7 +51,7 @@ export default function PhotoGallery({ onNext }) {
           Moments with You
         </h1>
         <p className="text-xl text-purple-300">
-          Beautiful moments with Madam Jii 📸
+          Beautiful moments with Bhaktuu 💕📸
         </p>
       </motion.div>
 

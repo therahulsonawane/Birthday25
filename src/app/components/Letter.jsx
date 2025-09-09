@@ -11,13 +11,13 @@ export default function Letter() {
     const [currentText, setCurrentText] = useState("")
     const [showCursor, setShowCursor] = useState(true)
 
-    const letterText = `My Dearest Madam Jii,
+    const letterText = `Dearest Bhaktuuuu 🥳💖,
 
-On this very special day, I want you to know how incredibly grateful I am to have you in my life. Your birthday isn't just a celebration of another year - it's a celebration of all the joy, laughter, and beautiful memories you bring to this world.
+First of all, Happiest Birthday ever 🎂✨. Thank you Bhagwan ji Bhaktuuu ke liye 🙏. You are really a very good person. Meri zindagi me tu bahut khaas hai ❤️. You are really important to me. Mai jyada bol nahi pata lekin, tu sach me bahut achhi hai 🌸.
 
-You have this amazing ability to light up any room you enter, to make people smile even on their darkest days, and to spread kindness wherever you go. Your heart is pure gold, and your spirit is absolutely infectious.
+These 2 years of my life are the best years 🕊️. Tere liye mera unconditional love hai 💕. Return me kuch bhi nahi chahiye, bas tujhe khush dekhna hai hamesha 😇. Tu tension mat liya kar, you can do anything 💪🌟. You are strong and very very beautiful 🌹✨.
 
-Thank you for being the wonderful, amazing, absolutely fantastic person that you are. The world is so much brighter because you're in it.
+Thank you for everything 🤗. And remember my good vibes are always with you ✨💫. I want to see you winning 🏆🔥. And I believe in you, you are meant for great things 🌍🌟.
 
 Happy Birthday, beautiful soul! 🎂✨
 
